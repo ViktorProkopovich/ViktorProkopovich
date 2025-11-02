@@ -1,61 +1,68 @@
-# 👨‍💻 Виктор Прокопович
-
-![Profile Views](https://komarev.com/ghpvc/?username=ViktorProkopovich&style=flat-square&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/ViktorProkopovich?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/ViktorProkopovich?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/ViktorProkopovich/ViktorProkopovich?color=green&style=flat-square)
+<!-- 👋 Приветствие -->
+<h1 align="center">👋 Привет, я Виктор Прокопович</h1>
+<h3 align="center">QA Engineer | Manual & Automation Testing | Python | SQL | API | Postman | Pytest | Allure</h3>
 
 ---
 
-## 🚀 Обо мне
+### 🚀 Обо мне
 
-🎓 Студент курса **«Инженер по тестированию: от новичка до автоматизатора»** от **Яндекс Практикум**  
-💼 Осваиваю ручное и автоматизированное тестирование на Python  
-💡 Интересуюсь QA-инженерией, ООП, автоматизацией UI и API  
-📍 Россия  
-
----
-
-## 🧩 Навыки
-
-**Тестирование и анализ**
-- Разработка тест-кейсов, чек-листов, баг-репортов  
-- Работа с требованиями и тестовой документацией  
-- Функциональное, регрессионное и приёмочное тестирование  
-
-**Инструменты и технологии**
-- **Языки:** Python, SQL  
-- **Автотесты:** Pytest, Selenium, Allure  
-- **API:** Postman, JSON, Requests  
-- **DevTools:** Git, GitHub, Jira, TestRail  
+🎓 Выпускник курса **«Инженер по тестированию: от новичка до автоматизатора»** от **Яндекс Практикум**  
+💻 Занимаюсь тестированием web и mobile приложений, API и backend’а  
+🧩 Постепенно перехожу к автоматизации на **Python**  
+📈 Люблю структурировать процессы, писать чистую тестовую документацию и улучшать качество продукта  
 
 ---
 
-## 📚 Учебные проекты
+### 🧰 Технологии и инструменты
 
-| 🧾 Проект | 📂 Описание | 🛠️ Технологии |
-|-----------|-------------|----------------|
-| [Sprint 1 — Manual Testing](https://github.com/ViktorProkopovich/Sprint_1) | Чек-листы, тест-кейсы и баг-репорты для Mesto | Google Sheets, тест-дизайн |
-| [Sprint 2 — SQL Project](https://github.com/ViktorProkopovich/Sprint_2) | Работа с базой данных стартапов, SQL-запросы | PostgreSQL, SQL |
-| [Sprint 3 — Python Project](https://github.com/ViktorProkopovich/Sprint_3) | Онлайн-касса на Python, ООП и инкапсуляция | Python, datetime, исключения |
-| [Sprint 4 — Автоматизация тестов](https://github.com/ViktorProkopovich/Sprint_4) | Автотесты для API Яндекс Самокат | Pytest, API, JSON |
-| [Sprint 5 — UI Тестирование](https://github.com/ViktorProkopovich/Sprint_5) | Автоматизация UI-тестов | Selenium, POM, Pytest |
-| [Sprint 6 — Итоговый проект](https://github.com/ViktorProkopovich/Sprint_6) | Финальный спринт по Python и тестированию | Selenium, Allure, GitHub Actions |
+<p align="center">
+  <!-- QA Tools -->
+  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestRail-70DBA6?style=for-the-badge&logo=testcafe&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Allure-FF4088?style=for-the-badge&logo=allure&logoColor=white"/>
+</p>
 
----
-
-## 📊 Статистика GitHub
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorProkopovich&layout=compact&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViktorProkopovich&show_icons=true&theme=tokyonight) |
-|:---:|:---:|
-
----
-
-## 💬 Контакты
-
-📧 **Email:** vik2rpro@yandex.ru
-💬 **Telegram:** [@viktor_prokopovich](https://t.me/Vik2rPro)    
+<p align="center">
+  <!-- Dev Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 ---
 
-✨ *"Каждый тест — это шаг к совершенству продукта."*  
+### 🧩 Мои проекты
+
+| Спринт | Проект | Описание |
+|:------:|:--------|:---------|
+| 📘 **2-й спринт** | [Sprint_2_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_2_Manual_Testing_YaPracticum) | Тестирование сервиса «Яндекс Маршруты»: чек-листы, тест-кейсы, баг-репорты |
+| 🧪 **3-й спринт** | [Sprint_3_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_3_Manual_Testing_YaPracticum) | Тестирование сервиса «Яндекс Маршруты»: чек-листы, тест-кейсы, баг-репорты |
+| ⚙️ **4-й спринт** | [Sprint_4_Mobile_Testing](https://github.com/ViktorProkopovich/Sprint_4_Mobile_Testing) | Функциональное и регрессионное тестирование Android-приложения «Яндекс Метро» |
+| 🌐 **5-й спринт** | [Sprint_5_API_Testing](https://github.com/ViktorProkopovich/Sprint_5_API_Testing) | Тестирование API сервиса «Яндекс Прилавок» через Postman |
+| 🧠 **6-й проект** | [Sprint_SQL_Project](https://github.com/ViktorProkopovich/Sprint_SQL_Project) | Работа с базой данных венчурных фондов: SQL-запросы и анализ данных |
+| 🧩 **7-й проект**  | [Sprint_1_QA_Python](https://github.com/ViktorProkopovich/Sprint_1_QA_Pithon_YaPracticum) | Основы Python, работа со строками, циклами и условиями |
+| 🐍 **8-й проект** | [Sprint_2_QA_Python](https://github.com/ViktorProkopovich/Sprint_2_QA_Pithon_YaPracticum) | Создание иерархий классов, ООП, наследование |
+| 🐉 **9-й проект** | [Sprint_3_QA_Python](https://github.com/ViktorProkopovich/Sprint_3_QA_Pithon_YaPracticum) | Онлайн-касса на Python с применением ООП |
+| 🚀 **10-й проект** |||
+| 💰 **Финальный проект** |||
+
+---
+
+### 📊 Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViktorProkopovich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorProkopovich&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+---
+
+### 📫 Контакты
+
+📍 Томск, Россия  
+📧 **Email:** [your.email@example.com](Vik2rpro@ya.ru)   
+📱 **Telegram:** [@ViktorQA](https://t.me/Vik2rPro)
