@@ -48,9 +48,9 @@
 | 🧩 **7-й проект** | [Sprint_1_QA_Python](https://github.com/ViktorProkopovich/Sprint_1_QA_Pithon_YaPracticum) | Основы Python, работа со строками, циклами и условиями |
 | 🐍 **8-й проект** | [Sprint_2_QA_Python](https://github.com/ViktorProkopovich/Sprint_2_QA_Pithon_YaPracticum) | Создание иерархий классов, ООП, наследование |
 | 🐉 **9-й проект** | [Sprint_3_QA_Python](https://github.com/ViktorProkopovich/Sprint_3_QA_Pithon_YaPracticum) | Создание иерархий классов, ООП, инкапсуляция |
-| 🐉 **10-й проект** | [Sprint_4_QA_Python](https://github.com/ViktorProkopovich/Sprint_4_QA_Pithon_YaPracticum) | Юнит-тестирование |
-| 🐍 **11-й проект** | [Sprint_5_QA_Python](https://github.com/ViktorProkopovich/Sprint_5_QA_Pithon_YaPracticum) | UI-тестирование |
-| 🐉 **12-й проект** | [Sprint_6_QA_Python](https://github.com/ViktorProkopovich/Sprint_4_QA_Pithon_YaPracticum) | Page Object |
+| 🐍 **10-й проект** | [Sprint_4_QA_Python](https://github.com/ViktorProkopovich/Sprint_4_QA_Pithon_YaPracticum) | Юнит-тестирование |
+| 🐉 **11-й проект** | [Sprint_5_QA_Python](https://github.com/ViktorProkopovich/Sprint_5_QA_Pithon_YaPracticum) | UI-тестирование |
+| 🐍 **12-й проект** | [Sprint_6_QA_Python](https://github.com/ViktorProkopovich/Sprint_4_QA_Pithon_YaPracticum) | Page Object |
 | 🚀 **13-й проект** || Тестирование API |
 | 💰 **Финальный проект** || Диплом |
 
