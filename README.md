@@ -64,5 +64,5 @@
 ### 📫 Контакты
 
 📍 Томск, Россия  
-📧 **Email:** [your.email@example.com](Vik2rPro@ya.ru)   
-📱 **Telegram:** [@ViktorQA](https://t.me/Vik2rPro)
+📧 **Email:** [Vik2rPro@ya.ru](Vik2rPro@ya.ru)   
+📱 **Telegram:** [@Vik2rPro](https://t.me/Vik2rPro)
