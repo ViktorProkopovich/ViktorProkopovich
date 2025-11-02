@@ -39,16 +39,20 @@
 
 | Спринт | Проект | Описание |
 |:------:|:--------|:---------|
-| 📘 **2-й спринт** | [Sprint_2_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_2_Manual_Testing_YaPracticum) | Тестирование сервиса «Яндекс Маршруты»: чек-листы, тест-кейсы, баг-репорты |
-| 🧪 **3-й спринт** | [Sprint_3_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_3_Manual_Testing_YaPracticum) | Тестирование сервиса «Яндекс Маршруты»: чек-листы, тест-кейсы, баг-репорты |
-| ⚙️ **4-й спринт** | [Sprint_4_Mobile_Testing](https://github.com/ViktorProkopovich/Sprint_4_Mobile_Testing) | Функциональное и регрессионное тестирование Android-приложения «Яндекс Метро» |
-| 🌐 **5-й спринт** | [Sprint_5_API_Testing](https://github.com/ViktorProkopovich/Sprint_5_API_Testing) | Тестирование API сервиса «Яндекс Прилавок» через Postman |
-| 🧠 **6-й проект** | [Sprint_SQL_Project](https://github.com/ViktorProkopovich/Sprint_SQL_Project) | Работа с базой данных венчурных фондов: SQL-запросы и анализ данных |
-| 🧩 **7-й проект**  | [Sprint_1_QA_Python](https://github.com/ViktorProkopovich/Sprint_1_QA_Pithon_YaPracticum) | Основы Python, работа со строками, циклами и условиями |
-| 🐍 **8-й проект** | [Sprint_2_QA_Python](https://github.com/ViktorProkopovich/Sprint_2_QA_Pithon_YaPracticum) | Создание иерархий классов, ООП, наследование |
-| 🐉 **9-й проект** | [Sprint_3_QA_Python](https://github.com/ViktorProkopovich/Sprint_3_QA_Pithon_YaPracticum) | Онлайн-касса на Python с применением ООП |
-| 🚀 **10-й проект** |||
-| 💰 **Финальный проект** |||
+| 📘 **1-й спринт** | [Sprint_1_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_1_QA_Pithon_YaPracticum)](https://github.com/ViktorProkopovich/Sprint_1_Manual_Testing_YaPracticum) | Регрессионное тестирование и ретест багов веб-приложений |
+| 📘 **2-й спринт** | [Sprint_2_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_2_Manual_Testing_YaPracticum) ](https://github.com/ViktorProkopovich/Sprint_2_Manual_Testing_YaPracticum)| Тестирование фичи: от тест-анализа до баг-репорта |
+| 🧪 **3-й спринт** | [Sprint_3_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_3_Manual_Testing_YaPracticum)](https://github.com/ViktorProkopovich/Sprint_3_Manual_Testing_YaPracticum) | Расширенное тестирование веб-приложений |
+| ⚙️ **4-й спринт** | [Sprint_4_Mobile_Testing](https://github.com/ViktorProkopovich/Sprint_4_Mobile_Testing)](https://github.com/ViktorProkopovich/Sprint_4_Manual_Testing_YaPracticum) | Тестирование мобильных приложений |
+| 🌐 **5-й спринт** | [Sprint_5_API_Testing](https://github.com/ViktorProkopovich/Sprint_5_API_Testing)](https://github.com/ViktorProkopovich/Sprint_5_Manual_Testing_YaPracticum) | Тестирование API |
+| 🧠 **6-й проект** | [Sprint_SQL_Project](https://github.com/ViktorProkopovich/Sprint_SQL_Project)](https://github.com/ViktorProkopovich/Sprint_6_Manual_Testing_YaPracticum) | Основы баз данных |
+| 🧩 **7-й проект** | [Sprint_1_QA_Python](https://github.com/ViktorProkopovich/Sprint_1_QA_Pithon_YaPracticum)](https://github.com/ViktorProkopovich/Sprint_1_QA_Pithon_YaPracticum) | Основы Python, работа со строками, циклами и условиями |
+| 🐍 **8-й проект** | [Sprint_2_QA_Python](https://github.com/ViktorProkopovich/Sprint_2_QA_Pithon_YaPracticum)](https://github.com/ViktorProkopovich/Sprint_2_QA_Pithon_YaPracticum) | Создание иерархий классов, ООП, наследование |
+| 🐉 **9-й проект** | [Sprint_3_QA_Python](https://github.com/ViktorProkopovich/Sprint_3_QA_Pithon_YaPracticum)](https://github.com/ViktorProkopovich/Sprint_3_QA_Pithon_YaPracticum) | Создание иерархий классов, ООП, инкапсуляция |
+| 🐉 **10-й проект** | [Sprint_4_QA_Python](https://github.com/ViktorProkopovich/Sprint_4_QA_Pithon_YaPracticum)](https://github.com/ViktorProkopovich/Sprint_4_QA_Pithon_YaPracticum) | Юнит-тестирование |
+| 🐍 **11-й проект** | [Sprint_5_QA_Python](https://github.com/ViktorProkopovich/Sprint_5_QA_Pithon_YaPracticum)](https://github.com/ViktorProkopovich/Sprint_5_QA_Pithon_YaPracticum) | UI-тестирование |
+| 🐉 **12-й проект** | [Sprint_6_QA_Python](https://github.com/ViktorProkopovich/Sprint_4_QA_Pithon_YaPracticum)](https://github.com/ViktorProkopovich/Sprint_6) | Page Object |
+| 🚀 **13-й проект** || Тестирование API |
+| 💰 **Финальный проект** || Диплом |
 
 ---
 
