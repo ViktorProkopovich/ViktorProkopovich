@@ -42,7 +42,7 @@
 | 📘 **1-й спринт** | [Sprint_1_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_1_Manual_Testing_YaPracticum) | Регрессионное тестирование и ретест багов веб-приложений |
 | 📘 **2-й спринт** | [Sprint_2_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_2_Manual_Testing_YaPracticum) | Тестирование фичи: от тест-анализа до баг-репорта |
 | 🧪 **3-й спринт** | [Sprint_3_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_3_Manual_Testing_YaPracticum) | Расширенное тестирование веб-приложений |
-| ⚙️ **4-й спринт** | [Sprint_4_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_4_Mobile_Testing) | Тестирование мобильных приложений |
+| ⚙️ **4-й спринт** | [Sprint_4_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_4_Manual_Testing_YaPracticum) | Тестирование мобильных приложений |
 | 🌐 **5-й спринт** | [Sprint_5_Manual_Testing](https://github.com/ViktorProkopovich/Sprint_5_API_Testing) | Тестирование API |
 | 🧠 **6-й проект** | [Sprint_SQL_Project](https://github.com/ViktorProkopovich/Sprint_SQL_Project) | Основы баз данных |
 | 🧩 **7-й проект** | [Sprint_1_QA_Python](https://github.com/ViktorProkopovich/Sprint_1_QA_Pithon_YaPracticum) | Основы Python, работа со строками, циклами и условиями |
