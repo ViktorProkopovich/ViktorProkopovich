@@ -51,7 +51,7 @@
 | 🐍 **10-й проект** | [Sprint_4_QA_Python](https://github.com/ViktorProkopovich/Sprint_4_QA_Pithon_YaPracticum) | Юнит-тестирование |
 | 🐉 **11-й проект** | [Sprint_5_QA_Python](https://github.com/ViktorProkopovich/Sprint_5_QA_Pithon_YaPracticum) | UI-тестирование |
 | 🐍 **12-й проект** | [Sprint_6_QA_Python](https://github.com/ViktorProkopovich/Sprint_6_QA_Pithon_YaPracticum) | Page Object |
-| 🚀 **13-й проект** || Тестирование API |
+| 🚀 **13-й проект** |[Sprint_7_QA_Python](https://github.com/ViktorProkopovich/Sprint_7_QA_Pithon_YaPracticum)| Тестирование API |
 | 💰 **Финальный проект** || Диплом |
 
 ---
